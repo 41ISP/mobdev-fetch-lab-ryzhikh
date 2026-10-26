@@ -43,3 +43,7 @@
     gap: var(--space-3) var(--space-2);
   }
 }
+ 
+.movie-list > li {
+  min-width: 0;
+}
